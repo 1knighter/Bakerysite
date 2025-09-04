@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+satxbakery.com	TRUE	/	FALSE	1999999999	_tracking_consent	3.AMPS_USTX_f_t_jZgsv6GGTWCoc1eh4nxM7w
+satxbakery.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+satxbakery.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZkR_DtOAAEAzjLhCfGNmBx4ksPNFaHGE59hU0OqLyJQyK9LP2l022jZHvfMuH8t9XDIi_QWJFjeQFWPf4DO7cC8wV0deUZ54jpsPA:
+satxbakery.com	TRUE	/	FALSE	1999999999	Priority	High
+satxbakery.com	TRUE	/	FALSE	1999999999	keep_alive	db0083fb-1fb3-46a5-8f7b-6c74e7149a21
+satxbakery.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+satxbakery.com	TRUE	/	FALSE	1999999999	_shopify_y	465f5708-ea50-405d-b893-91ad52e230df
+satxbakery.com	TRUE	/	FALSE	1999999999	_shopify_s	f19e8340-ff50-4ba9-b5f9-adf443a6bcb2
+satxbakery.com	TRUE	/	FALSE	1999999999	localization	US
+satxbakery.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

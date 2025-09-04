@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Sep 2025 18:49:25 at https://SATXBakery.com
+("C:\Program Files\WinHTTrack\httrack.exe" https://SATXBakery.com -O "C:\Users\Triggering Studios\bakerysite_mirror" -%! -c4 -%k )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:49:25	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+18:51:26	Error: 	"Not Found" (404) at link https://satxbakery.com/modules/v2/chunk.common_DahBGZaO.esm.js (from https://satxbakery.com/)
+18:51:26	Error: 	"Not Found" (404) at link https://satxbakery.com/modules/v2/client.shop-login-button_W1_LuYMk.en.esm.js (from https://satxbakery.com/)
+18:51:27	Error: 	"Not Found" (404) at link https://satxbakery.com/GET (from https://satxbakery.com/)
+18:51:27	Error: 	"Not Found" (404) at link https://satxbakery.com/POST (from https://satxbakery.com/)
+18:51:27	Error: 	"Error when decompressing" (-1) at link https://satxbakery.com/cdn (from https://satxbakery.com/)
+18:51:33	Error: 	"Not Found" (404) at link https://satxbakery.com/pages/contact (from https://satxbakery.com/)
+19:08:12	Error: 	"Not Found" (404) at link https://satxbakery.com/collections/modules/v2/chunk.common_DahBGZaO.esm.js (from https://satxbakery.com/collections/all)
+19:08:12	Error: 	"Not Found" (404) at link https://satxbakery.com/collections/modules/v2/client.shop-login-button_W1_LuYMk.en.esm.js (from https://satxbakery.com/collections/all)
+19:08:12	Error: 	"Not Found" (404) at link https://satxbakery.com/collections/GET (from https://satxbakery.com/collections/all)
+19:08:12	Error: 	"Not Found" (404) at link https://satxbakery.com/collections/POST (from https://satxbakery.com/collections/all)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/products/modules/v2/chunk.common_DahBGZaO.esm.js (from https://satxbakery.com/products/1-set-11in-rotating-cake-turntable-108pcs-cake-decorating-supplies-kit-revolving-cake-table-stand-base-baking-tools)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/products/modules/v2/client.shop-login-button_W1_LuYMk.en.esm.js (from https://satxbakery.com/products/1-set-11in-rotating-cake-turntable-108pcs-cake-decorating-supplies-kit-revolving-cake-table-stand-base-baking-tools)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/products/GET (from https://satxbakery.com/products/1-set-11in-rotating-cake-turntable-108pcs-cake-decorating-supplies-kit-revolving-cake-table-stand-base-baking-tools)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/products/POST (from https://satxbakery.com/products/1-set-11in-rotating-cake-turntable-108pcs-cake-decorating-supplies-kit-revolving-cake-table-stand-base-baking-tools)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/products/review-widget/main.js (from https://satxbakery.com/products/1-set-11in-rotating-cake-turntable-108pcs-cake-decorating-supplies-kit-revolving-cake-table-stand-base-baking-tools)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/policies/modules/v2/chunk.common_DahBGZaO.esm.js (from https://satxbakery.com/policies/privacy-policy)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/policies/modules/v2/client.shop-login-button_W1_LuYMk.en.esm.js (from https://satxbakery.com/policies/privacy-policy)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/policies/GET (from https://satxbakery.com/policies/privacy-policy)
+19:08:13	Error: 	"Not Found" (404) at link https://satxbakery.com/policies/POST (from https://satxbakery.com/policies/privacy-policy)
+19:09:30	Error: 	"Not Found" (404) at link https://satxbakery.com/pages/modules/v2/chunk.common_DahBGZaO.esm.js (from https://satxbakery.com/pages/data-sharing-opt-out)
+19:09:30	Error: 	"Not Found" (404) at link https://satxbakery.com/pages/modules/v2/client.shop-login-button_W1_LuYMk.en.esm.js (from https://satxbakery.com/pages/data-sharing-opt-out)
+19:09:30	Error: 	"Not Found" (404) at link https://satxbakery.com/pages/GET (from https://satxbakery.com/pages/data-sharing-opt-out)
+19:09:30	Error: 	"Not Found" (404) at link https://satxbakery.com/pages/POST (from https://satxbakery.com/pages/data-sharing-opt-out)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 5 seconds : 936 links scanned, 912 files written (85876040 bytes overall) [82307391 bytes received at 68304 bytes/sec], 9701231 bytes transferred using HTTP compression in 134 files, ratio 23%, 205.8 requests per connection
+(23 errors, 1 warnings, 0 messages)

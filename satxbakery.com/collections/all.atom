@@ -1,0 +1,2314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://satxbakery.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://satxbakery.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://satxbakery.com/collections/all.atom"/>
+  <title>SATX Bakery</title>
+  <updated>2025-09-02T16:08:44-05:00</updated>
+  <author>
+    <name>SATX Bakery</name>
+  </author>
+  <entry>
+    <id>https://satxbakery.com/products/9985861320995</id>
+    <published>2025-09-02T16:08:44-05:00</published>
+    <updated>2025-09-02T16:08:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/24-pcs-square-seasoning-jars-pepper-bottle-pepper-powder-bottle-240ml-glass-seasoning-jars-salt-jars"/>
+    <title>24 PCS Square Seasoning Jars Pepper Bottle Pepper Powder Bottle 240ml Glass Seasoning Jars Salt Jars</title>
+    <s:type>baking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/aff7abe4-cf89-4ce2-972b-0e6e91aba5a5.jpg?v=1756847310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>baking<br>
+        <strong>Price: </strong>
+            68.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ Packaging size: 35.5cm * 27.5cm * 25.5cm, including packaging weight: 3931g, product size: see picture
+ <br>
+</p>
+<p>
+ <br>
+</p>
+<p>1. Do not put it in the microwave oven</p>
+<p>2. Material: High borosilicate heat-resistant glass, with an instantaneous temperature difference of 120 degrees and no explosion</p>
+<p>3. Materials are safer and healthier</p>
+<p>4. Packaging safety: pearl cotton+five layer corrugated cardboard box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9985861320995</id>
+      <title>Twentyfour</title>
+      <s:price currency="USD">68.06</s:price>
+      <s:sku>CJCF217052301AZ</s:sku>
+      <s:grams>3931</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9983620120867</id>
+    <published>2025-08-29T12:19:10-05:00</published>
+    <updated>2025-08-29T12:19:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/festive-stainless-steel-water-bottle-holiday-drinkware-christmas-gift-reusable-flask-snowman-reindeer-design-eco-friendly"/>
+    <title>Festive Stainless Steel Water Bottle | Holiday Drinkware, Christmas Gift, Reusable Flask, Snowman &amp; Reindeer Design, Eco-Friendly</title>
+    <s:type>Mug</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/18439101715818996903_2048.jpg?v=1756488112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Mug<br>
+        <strong>Price: </strong>
+            33.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing a vibrant Stainless Steel Water Bottle that brightens up your hydration experience. Crafted for those who love to express their individuality, this water bottle features a playful and cheerful design ideal for any spirited occasion, from holiday gatherings to everyday adventures. Enjoy the luxury of hot or cold drinks with up to 12 hours of warmth and 24 hours of chill, making it perfect for outdoor activities, gym sessions, or cozy winter days at home. Whether you're a busy professional or a festive party planner, this water bottle is your new companion. Ideal for gifting during Christmas, birthdays, or any special celebration, it's the perfect way to stay refreshed while showcasing your unique style.<br><br>Product features<br>- Double-wall insulation keeps drinks hot for 12 hours and cold for 24 hours.<br>- BPA-free materials ensure safety and health for every user.<br>- Vibrant colors bring life to your hydration routine with bright designs.<br>- Textured matte finish provides a sophisticated grip and look.<br>- Available in three convenient sizes: 12oz, 18oz, and 32oz.<br><br>Care instructions<br>- Hand wash only<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas gift</s:tag>
+    <s:tag>cute water bottle</s:tag>
+    <s:tag>eco friendly bottle</s:tag>
+    <s:tag>family gatherings</s:tag>
+    <s:tag>festive drinkware</s:tag>
+    <s:tag>gifts for her</s:tag>
+    <s:tag>gifts for him</s:tag>
+    <s:tag>holiday water bottle</s:tag>
+    <s:tag>outdoor adventure</s:tag>
+    <s:tag>party favors</s:tag>
+    <s:tag>seasonal drinkware</s:tag>
+    <s:tag>travel water bottle</s:tag>
+    <s:tag>winter hydration</s:tag>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983620120867</id>
+      <title>12oz / White</title>
+      <s:price currency="USD">33.67</s:price>
+      <s:sku>21943576436458501585</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9983619236131</id>
+    <published>2025-08-29T12:12:54-05:00</published>
+    <updated>2025-08-29T12:12:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/wrapping-papers"/>
+    <title>Wrapping Papers</title>
+    <s:type>Home Decor</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/18202289035558280440_4096.jpg?v=1756488022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Home Decor<br>
+        <strong>Price: </strong>
+            10.46 - 11.94
+            <a href="https://satxbakery.com/products/wrapping-papers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Custom wrapping paper printing has never been easier, all thanks to these high-quality 90gsm fine-art wrapping papers. Available in 3x sizes for you to match all your customers' needs, these wrapping papers come with a matte or glossy finish and feature a high-definition print. Paper comes neatly rolled up for an excellent delivery experience.
+.: Material: 90 gsm fine art paper
+.: Available in three sizes: 30" × 36", 30" × 72" and 30" x 180"
+.: One-sided print
+.: Matte or glossy finish
+.: Please note: Wrapping paper from SPOKE includes white spaces at top and bottom edges with a bar and QR code</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619236131</id>
+      <title>30&quot; x 36&quot; / Glossy</title>
+      <s:price currency="USD">11.94</s:price>
+      <s:sku>34120832181649945518</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619236131</id>
+      <title>30&quot; x 36&quot; / Matte</title>
+      <s:price currency="USD">10.46</s:price>
+      <s:sku>33604894793895012830</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9983619170595</id>
+    <published>2025-08-29T12:12:35-05:00</published>
+    <updated>2025-08-29T12:12:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/accent-coffee-mug-11-15oz"/>
+    <title>Accent Coffee Mug (11, 15oz)</title>
+    <s:type>Mug</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/4531890548607348254_2048.jpg?v=1756487566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Mug<br>
+        <strong>Price: </strong>
+            9.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Meet your next favorite morning companion, the accented ceramic mug. This mug brings the perfect blend of style and functionality to elevate your coffee or tea ritual. Available in two generous sizes, 11oz (0.33 l) and 15oz (0.44 l), this mug offers ample space for your favorite brew. Made with white ceramic and sporting a sleek glossy finish with eye-catching contrast, this mug is a bliss both to use and to look at. The ergonomic C-shaped handle provides a comfortable grip, while the lead and BPA-free construction guarantee peace of mind with every sip.<br><p>.: Material: white ceramic with colored interior and handle<br>.: Available in two sizes: 11oz (0.33 l) and 15oz (0.44 l)<br>.: Choose from multiple interior and handle colors<br>.: C-shaped handle<br>.: Glossy finish<br>.: Eye-catching color contrast <br>.: Lead and BPA-free</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11 oz</s:tag>
+    <s:tag>11oz</s:tag>
+    <s:tag>15 oz</s:tag>
+    <s:tag>15oz</s:tag>
+    <s:tag>accent mug</s:tag>
+    <s:tag>Beverage</s:tag>
+    <s:tag>Coffee Mugs</s:tag>
+    <s:tag>Drink</s:tag>
+    <s:tag>Drinks</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Home &amp; Living</s:tag>
+    <s:tag>Kitchen</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:tag>Personalization Picks</s:tag>
+    <s:tag>Spring Essentials</s:tag>
+    <s:tag>two tone</s:tag>
+    <s:tag>Valentine&apos;s Day</s:tag>
+    <s:tag>White base</s:tag>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619170595</id>
+      <title>11oz / Black</title>
+      <s:price currency="USD">9.30</s:price>
+      <s:sku>30728191992161665300</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619170595</id>
+      <title>11oz / Navy</title>
+      <s:price currency="USD">9.30</s:price>
+      <s:sku>67160318240202878006</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619170595</id>
+      <title>11oz / Pink</title>
+      <s:price currency="USD">9.30</s:price>
+      <s:sku>31315061913475715445</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619170595</id>
+      <title>11oz / Red</title>
+      <s:price currency="USD">9.30</s:price>
+      <s:sku>31649232250647126079</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619170595</id>
+      <title>11oz / Light Blue</title>
+      <s:price currency="USD">9.30</s:price>
+      <s:sku>22606912615539737774</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619170595</id>
+      <title>11oz / Orange</title>
+      <s:price currency="USD">9.30</s:price>
+      <s:sku>36283771453607692668</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619170595</id>
+      <title>11oz / Purple</title>
+      <s:price currency="USD">9.30</s:price>
+      <s:sku>90833903417832533955</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983619170595</id>
+      <title>11oz / Yellow</title>
+      <s:price currency="USD">9.30</s:price>
+      <s:sku>10692129141167520631</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9983348113699</id>
+    <published>2025-08-29T08:11:03-05:00</published>
+    <updated>2025-08-29T08:11:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/breathable-potato-tomato-vegetable-plant-growth-bag"/>
+    <title>Breathable Potato Tomato Vegetable Plant Growth Bag</title>
+    <s:type>baking</s:type>
+    <s:vendor>SATX Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/23618417567629.jpg?v=1756473038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SATX Bakery<br>
+        <strong>Type: </strong>baking<br>
+        <strong>Price: </strong>
+            11.20 - 88.49
+            <a href="https://satxbakery.com/products/breathable-potato-tomato-vegetable-plant-growth-bag">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <span style="font-weight: bold;">Overview：</span>
+ <br>
+ warm tips: if your order amount is less then 5$, we will send the package by China Post Ordinary Small Packet Plus. (tracking
+ <br>
+ information is not available)
+ <br>
+ Features:
+ <br>
+ Our plant grows bags are perfect for planting a variety of potatoes in your home balcony or garden. It has a side window for easily harvesting your potatoes, and double handles could bring you much convenience when you move it. It is made of PE material, eco-friendly, and durable to use. It is also reusable, economical, and practical.
+ <br>
+ <br>
+</p>
+<p>
+ <span style="font-weight: bold;">Specification：</span>
+ <br>
+ Material: Non-woven
+ <br>
+ Features: Corrosion-resistant, breathable, self-absorbent, durable, degradable, transparent
+ <br>
+ Color: black, grass green, camel brown
+ <br>
+ Size: small, medium, large
+ <br>
+ <br>
+</p>
+<p>
+ <span style="font-weight: bold;">Package Content：</span>
+ <br>
+ 1* plant grow bag
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/15561216/323675239788.png" style="max-width:100%;">
+ <br>
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/fd241faf-b4d3-43cc-a643-cda5790e1d98.png" style="max-width:100%;">
+ <br>
+</p>
+<p>
+ <a href="https://www.aliexpress.com/store/4991157" target="_blank">
+  <img src="https://cf.cjdropshipping.com/quick/product/f4c858ba-5c92-47bf-a9b7-977397f55db8.jpg">
+ </a>
+ <br>
+ <img src="https://cf.cjdropshipping.com/quick/product/51fde3a5-0f5a-4818-9f48-a8582ebb20af.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/841f0b69-3b1b-4063-b5d9-3f5899e141a2.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/3787cca3-afbf-4a56-9b4b-869315cb3468.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/97479029-c6c0-497e-9523-8e66323e973b.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/fd113c3f-9917-4557-bb7b-b6de7c7a46d5.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/5b796295-c6d3-4d4c-b73a-10837b5f324b.jpg">
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">12.80</s:price>
+      <s:sku>CJJZGJYL00065-Black-Medium</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Camel brown / Medium</title>
+      <s:price currency="USD">12.80</s:price>
+      <s:sku>CJJZGJYL00065-Camel brown-Medium</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green / Medium</title>
+      <s:price currency="USD">12.80</s:price>
+      <s:sku>CJJZGJYL00065-Green-Medium</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Set / M</title>
+      <s:price currency="USD">31.24</s:price>
+      <s:sku>CJJZGJYL00065-Set-M</s:sku>
+      <s:grams>511</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Black 2PCS / Large</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>CJJZGJYL00065-Black 2PCS-Large</s:sku>
+      <s:grams>428</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">14.49</s:price>
+      <s:sku>CJJZGJYL00065-Black-Large</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">11.20</s:price>
+      <s:sku>CJJZGJYL00065-Black-Small</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Black3PCS / Large</title>
+      <s:price currency="USD">36.95</s:price>
+      <s:sku>CJJZGJYL00065-Black3PCS-Large</s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Black3PCS / Medium</title>
+      <s:price currency="USD">30.96</s:price>
+      <s:sku>CJJZGJYL00065-Black3PCS-Medium</s:sku>
+      <s:grams>460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Black3PCS / Small</title>
+      <s:price currency="USD">24.21</s:price>
+      <s:sku>CJJZGJYL00065-Black3PCS-Small</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Camel brown 2PCS / Large</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>CJJZGJYL00065-Camel brown 2PCS-Large</s:sku>
+      <s:grams>428</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Camel brown / Large</title>
+      <s:price currency="USD">14.49</s:price>
+      <s:sku>CJJZGJYL00065-Camel brown-Large</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Camel brown / Small</title>
+      <s:price currency="USD">11.20</s:price>
+      <s:sku>CJJZGJYL00065-Camel brown-Small</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Camel brown2PCS / Medium</title>
+      <s:price currency="USD">20.79</s:price>
+      <s:sku>CJJZGJYL00065-Camel brown2PCS-Medium</s:sku>
+      <s:grams>342</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Camel brown3PCS / Large</title>
+      <s:price currency="USD">36.95</s:price>
+      <s:sku>CJJZGJYL00065-Camel brown3PCS-Large</s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Camel brown3PCS / Medium</title>
+      <s:price currency="USD">29.39</s:price>
+      <s:sku>CJJZGJYL00065-Camel brown3PCS-Medium</s:sku>
+      <s:grams>422</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Camel brown3PCS / Small</title>
+      <s:price currency="USD">24.21</s:price>
+      <s:sku>CJJZGJYL00065-Camel brown3PCS-Small</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green 2PCS / Large</title>
+      <s:price currency="USD">24.01</s:price>
+      <s:sku>CJJZGJYL00065-Green 2PCS-Large</s:sku>
+      <s:grams>432</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green / Large</title>
+      <s:price currency="USD">14.49</s:price>
+      <s:sku>CJJZGJYL00065-Green-Large</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green / Small</title>
+      <s:price currency="USD">11.20</s:price>
+      <s:sku>CJJZGJYL00065-Green-Small</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green2PCS / Medium</title>
+      <s:price currency="USD">20.73</s:price>
+      <s:sku>CJJZGJYL00065-Green2PCS-Medium</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green3PCS / Large</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>CJJZGJYL00065-Green3PCS-Large</s:sku>
+      <s:grams>596</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green3PCS / Medium</title>
+      <s:price currency="USD">25.42</s:price>
+      <s:sku>CJJZGJYL00065-Green3PCS-Medium</s:sku>
+      <s:grams>416</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green3PCS / Small</title>
+      <s:price currency="USD">24.21</s:price>
+      <s:sku>CJJZGJYL00065-Green3PCS-Small</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green4PCS / Medium</title>
+      <s:price currency="USD">38.24</s:price>
+      <s:sku>CJJZGJYL00065-Green4PCS-Medium</s:sku>
+      <s:grams>596</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Green6PCS / Medium</title>
+      <s:price currency="USD">52.91</s:price>
+      <s:sku>CJJZGJYL00065-Green6PCS-Medium</s:sku>
+      <s:grams>884</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Light gray 2PCS / Large</title>
+      <s:price currency="USD">62.56</s:price>
+      <s:sku>CJJZGJYL00065-Light gray 2PCS-Large</s:sku>
+      <s:grams>428</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Light gray / Large</title>
+      <s:price currency="USD">31.67</s:price>
+      <s:sku>CJJZGJYL00065-Light gray-Large</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Light gray / Medium</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>CJJZGJYL00065-Light gray-Medium</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Light gray / Small</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>CJJZGJYL00065-Light gray-Small</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Light gray3PCS / Large</title>
+      <s:price currency="USD">88.49</s:price>
+      <s:sku>CJJZGJYL00065-Light gray3PCS-Large</s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Light gray3PCS / Medium</title>
+      <s:price currency="USD">71.38</s:price>
+      <s:sku>CJJZGJYL00065-Light gray3PCS-Medium</s:sku>
+      <s:grams>452</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983348113699</id>
+      <title>Light gray3PCS / Small</title>
+      <s:price currency="USD">56.60</s:price>
+      <s:sku>CJJZGJYL00065-Light gray3PCS-Small</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9983070208291</id>
+    <published>2025-08-28T17:32:56-05:00</published>
+    <updated>2025-08-28T17:32:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/coming-soon"/>
+    <title>coming soon</title>
+    <s:type></s:type>
+    <s:vendor>SATX Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SATX Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>coming soon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9983070208291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982586388771</id>
+    <published>2025-08-28T00:15:19-05:00</published>
+    <updated>2025-08-28T00:15:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/stainless-steel-water-bottle-does-not-contain-alcohol-travel-mug"/>
+    <title>Stainless Steel Water Bottle - &apos;Does not contain alcohol, Travel Mug</title>
+    <s:type>Mug</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/2436451761477395797_2048.jpg?v=1756358125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Mug<br>
+        <strong>Price: </strong>
+            39.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stay hydrated in style with this sleek Stainless Steel Water Bottle. Designed for both function and flair, it offers a matte finish that feels great in your hand while showcasing vibrant colors that match your personality. Perfect for busy professionals, fitness enthusiasts, or anyone on-the-go, this bottle keeps drinks hot for up to 12 hours and cold for up to 24 hours, ensuring you'll have the perfect sip no matter the occasion. Ideal for everyday use, outdoor adventures, or gifting on holidays like Christmas, Earth Day, or birthdays. Elevate your hydration game today!<br><br>Product features<br>- Double-wall insulation to maintain beverage temperatures for hours.<br>- BPA-free materials for safe hydration.<br>- Available in vibrant colors for a personalized touch.<br>- Durable matte finish with a grainy texture for better grip.<br>- Available in three convenient sizes: 12oz, 18oz, and 32oz.<br><br>Care instructions<br>- Hand wash only<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BPA Free Bottle</s:tag>
+    <s:tag>Camping Water Bottle</s:tag>
+    <s:tag>Custom Water Bottle</s:tag>
+    <s:tag>Eco-Friendly Bottle</s:tag>
+    <s:tag>Fitness Water Bottle</s:tag>
+    <s:tag>Gift for Hikers</s:tag>
+    <s:tag>Hydration Reminder</s:tag>
+    <s:tag>Safety First Gear</s:tag>
+    <s:tag>Sport Water Bottle</s:tag>
+    <s:tag>Travel Water Bottle</s:tag>
+    <s:tag>Unique Water Bottle</s:tag>
+    <s:tag>Water Bottle Design</s:tag>
+    <s:tag>Water Bottle Gift</s:tag>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982586388771</id>
+      <title>12oz / White</title>
+      <s:price currency="USD">39.28</s:price>
+      <s:sku>21439623794664473684</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982586126627</id>
+    <published>2025-08-28T00:12:26-05:00</published>
+    <updated>2025-08-28T00:12:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/bottle-does-not-contain-alcohol-22oz"/>
+    <title>Bottle - &apos;Does Not Contain Alcohol&apos;, 22oz</title>
+    <s:type>Mug</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/4338719550336624697_2048.jpg?v=1756357952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Mug<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Copper Vacuum Insulated Bottle, 22oz features a funny "DOES NOT CONTAIN ALCOHOL" joke, making it a perfect to stop the suspicious boss or cop. Keep your beverages hot or cold for longer with the durable stainless steel construction and copper insulation. The spill-resistant lid and wide opening make it convenient for daily use, and the powder-coat finish ensures that it is scratch and fade resistant. This bottle is perfect for those who enjoy a good laugh and like to stay hydrated on the go, making it a great gift for friends and family during birthdays, holidays, or any special occasion.<br><br>Product features<br>- Copper insulated for maximum temperature retention<br>- Spill resistant screw-on lid with hand loop<br>- Wide opening for easy filling and pouring<br>- Durable powder-coat finish<br>- BPA free<br><br>Care instructions<br>- Hand wash only<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alcohol Humor</s:tag>
+    <s:tag>Bottle 22oz</s:tag>
+    <s:tag>Camping Gear</s:tag>
+    <s:tag>Copper Bottle</s:tag>
+    <s:tag>Fitness Accessory</s:tag>
+    <s:tag>Funny Joke</s:tag>
+    <s:tag>Hiking Essential</s:tag>
+    <s:tag>Hydration Reminder</s:tag>
+    <s:tag>Outdoor Adventure</s:tag>
+    <s:tag>Sarcastic Present</s:tag>
+    <s:tag>Unique Gift</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:tag>Workout Companion</s:tag>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982586126627</id>
+      <title>White / 22oz</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>36893428855315323954</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982581080355</id>
+    <published>2025-08-27T23:47:23-05:00</published>
+    <updated>2025-08-27T23:47:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/silicone-spoon-mat-easy-to-clean-kitchen-mat-shelf-mat-heat-insulation"/>
+    <title>Silicone Spoon Mat Easy To Clean Kitchen Mat Shelf Mat Heat Insulation</title>
+    <s:type>baking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/df9cbb72-177f-4b1a-bb2e-90fc2b1923ab.jpg?v=1756356431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>baking<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <b>Product information:</b>
+ <br>
+ Pattern: solid color
+ <br>
+ Color: orange, black, red, yellow, blue, green, pink, Lake blue, gray, random color
+ <br>
+ Material: TPE
+ <br>
+ Style: modern simplicity
+ <br>
+ Shape: Irregular
+ <br>
+</p>
+<br>
+<b>Packing list: </b>
+<br>
+Spoon * 1 
+<b>Product Image:</b>
+<br>
+<img src="https://cf.cjdropshipping.com/4eccb9b0-f876-4709-92a7-ea9232289ebf.jpg">
+<img src="https://cf.cjdropshipping.com/05293609-4861-4dec-ac5e-7e6b12dd80ac.jpg">
+<img src="https://cf.cjdropshipping.com/5f9458ce-77b0-4797-a69a-ee9ef0dcf1c8.jpg">
+<img src="https://cf.cjdropshipping.com/864d59c2-6062-4960-9d1f-709e51c79324.jpg">
+<img src="https://cf.cjdropshipping.com/1f17c9ca-5930-4c9e-acad-ad6db9b2e1f6.jpg"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Black</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051102BY</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Blue</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051105EV</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Gray</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051109IR</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Green</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051106FU</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Orange</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051101AZ</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Pink</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051107GT</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Red</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051103CX</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Lake Blue</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051108HS</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982581080355</id>
+      <title>Yellow</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>CJCJ170051104DW</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982580982051</id>
+    <published>2025-08-27T23:46:15-05:00</published>
+    <updated>2025-08-27T23:46:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/handmade-wooden-bowl-with-black-filler"/>
+    <title>Handmade Wooden Bowl With Black Filler</title>
+    <s:type>cooking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/a62f02cc-e27d-47ca-afb0-6efbde3d68d2.jpg?v=1756356371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>cooking<br>
+        <strong>Price: </strong>
+            150.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product Features</p>
+<ul>
+ <li>Handmade Excellence: Each Edwin Bowl is meticulously handcrafted to ensure superior quality and attention to detail, making it a unique piece of art.</li>
+ <li>Functional Utensil: This bowl serves as a practical utensil for serving fruits, snacks, or decorative items, adding both functionality and style to your space.</li>
+ <li>Natural Elegance: Crafted from premium mango wood with a rich brown finish for a warm, organic look.</li>
+ <li>Functional Beauty: Combines everyday practicality with stylish appeal for any room in your home.</li>
+ <li>
+  <img src="https://cf.cjdropshipping.com/40154905-fa22-4065-b6df-2886f18d93c6.jpg" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/ad4610a6-d032-40f6-9ff8-6a0e834b52c5.jpg" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/f5f9d13e-0fc8-40ea-b991-65ec98509b41.jpg" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/2f9c8d12-965c-44ad-8f9d-2f9f13317b99.jpg" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/dd25a48b-5308-4a02-bfcf-852bb611b9b5.jpg" style="max-width:100%;" contenteditable="false">
+ </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982580982051</id>
+      <title>1pcs</title>
+      <s:price currency="USD">150.10</s:price>
+      <s:sku>CJCJ240251901AZ</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982580883747</id>
+    <published>2025-08-27T23:45:44-05:00</published>
+    <updated>2025-08-27T23:45:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/wooden-cheese-cutting-board"/>
+    <title>Wooden Cheese Cutting Board</title>
+    <s:type>baking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/dab543e1-b67c-45f2-af08-270703c408f3.jpg?v=1756356340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>baking<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product Features</p>
+<ul>
+ <li>Made from luxurious mango wood with a rich brown hue</li>
+ <li>Sleek, smooth finish highlighting natural wood beauty</li>
+ <li>Generous size (14 x 9 inches) for ample cheese and accompaniments space</li>
+ <li>Ideal for cheese and charcuterie presentations</li>
+ <li>Perfect for entertaining guests or gifting to cheese lovers</li>
+ <li>Functions as both a cheese board and cutting board</li>
+ <li>
+  <img src="https://cf.cjdropshipping.com/fdf440cf-084f-4ed0-93a9-f37806e0710b.png" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/8db6b3c7-dbe1-428d-8000-31111c29166c.png" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/aa1e0da5-80f6-4d7d-8a16-f8a6e59d595a.png" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/43366de7-22a0-424a-921e-188749ccdd4e.png" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/8d962a8e-b16f-4941-8338-5c174c55e2ba.png" style="max-width:100%;" contenteditable="false">
+ </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982580883747</id>
+      <title>1PC</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>CJCJ240142201AZ</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982265721123</id>
+    <published>2025-08-27T10:19:09-05:00</published>
+    <updated>2025-08-27T10:19:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/biscuit-press-biscuit-machine"/>
+    <title>Biscuit Press Biscuit Machine</title>
+    <s:type>baking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/484319292282.jpg?v=1756307941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>baking<br>
+        <strong>Price: </strong>
+            32.99 - 55.99
+            <a href="https://satxbakery.com/products/biscuit-press-biscuit-machine">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <span style="font-weight: bold;">Overview:</span>
+ <br>
+ Purpose: Bake cookies and decorate cakes
+ <br>
+ Stainless steel cookie gun
+ <br>
+ 1.100g butter, 130g low gluten flour, 50g white sugar without milk and other, other recipes you are familiar with their own mix
+ <br>
+ 2. When the butter is whisked, add the flour and sugar to make a clean batter
+</p>
+<p>
+ <br>
+</p>
+<p>
+ <b>Note: </b>
+ <br>
+ 1. Cookies can be pressed directly on the unoiled baking sheet (dust without touching the baking sheet)
+ <br>
+ 2. Do not put it on the oiled paper (can not stick, the machine can not remove film), after baking a plate, should be cleaned and dried the next plate
+ <br>
+ 3. Oven 170 degrees, 10 minutes (due to the difference of the oven, the time is slightly different, first press the setting of 10 minutes, if it is not hot, then add two minutes, do not add more than two minutes at a time)
+</p>
+<p>
+ <br>
+</p>
+<p>
+ <span style="font-weight: bold;">Specifications:</span>
+ <br>
+ Cookie Tools Type: Cookie Presses &amp; Icing Sets
+ <br>
+ Feature: Eco-FriendlyModel
+ <br>
+ Type: Cookie Tools
+ <br>
+ Material: STAINLESS STEEL
+ <br>
+ Item: Biscuit maker Cookie Press with icing set
+ <br>
+ Accessories: 13 stainless steel cookie press molds and 8 pastry piping nozzles
+ <br>
+ Package: A color gift box
+ <br>
+ <br>
+</p>
+<p>
+ <span style="font-weight: bold;">Package Content:</span>
+ <br>
+ 1 *gun
+ <br>
+ 8* mouth
+ <br>
+ 13* flower
+ <br>
+ <br>
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/e396f9dd-f4cd-4daf-baa2-457c13943d85.jpg" style="max-width:100%;">
+ <img src="https://cf.cjdropshipping.com/0b2be6aa-a3fa-471c-b877-55bfdc559530.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/bd9d95cb-8dcd-4ebb-b4ed-4424cf4d9a52.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/703ab5a4-37d9-43cb-a8b3-3f323e14e24f.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/3953693d-d187-4267-8d75-c237f3c49dcd.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/4ee7daff-4431-4277-a55d-ffe8282b8729.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/01ca77b1-fed2-4180-a3b4-448626620fc9.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/886fb1ad-38ae-4309-927e-a5fddffa364e.jpg" style="font-size: 14px; max-width: 100%;">
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982265721123</id>
+      <title>Biscuit machine</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>CJJJCFCJ00759-Biscuit machine</s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982265721123</id>
+      <title>Biscuit machine 2pcs</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>CJJJCFCJ00759-Biscuit machine 2pcs</s:sku>
+      <s:grams>1820</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982265721123</id>
+      <title>Biscuit machine 3pcs</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>CJJJCFCJ00759-Biscuit machine 3pcs</s:sku>
+      <s:grams>2720</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982265721123</id>
+      <title>Biscuit machine no box</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>CJJJCFCJ00759-Biscuit machine no box</s:sku>
+      <s:grams>928</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982265590051</id>
+    <published>2025-08-27T10:17:29-05:00</published>
+    <updated>2025-08-27T10:17:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/home-kitchen-whetstone"/>
+    <title>Home kitchen whetstone</title>
+    <s:type>cooking</s:type>
+    <s:vendor>SATX Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/a4bb0795-7cc6-468e-ac81-92e1c1717a8a.jpg?v=1756307842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SATX Bakery<br>
+        <strong>Type: </strong>cooking<br>
+        <strong>Price: </strong>
+            24.99 - 31.99
+            <a href="https://satxbakery.com/products/home-kitchen-whetstone">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ Material: White Corundum
+ <br>
+ Product name: red and white suit, green and white suit
+ <br>
+ Product size: 215*95*23mm
+ <br>
+ Product specifications: 3000/8000
+ <br>
+ 3000/8000 green and white double-sided white corundum whetstone
+</p>
+<p>
+ Function: used for kitchen knife sharpening  
+ <br>
+</p>
+<p>5-piece set (whetstone + bamboo base + correction stone + silicone pad + knife holder locator)</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/8d9e5273-d500-483c-846c-feb8ae9e60e2.jpg" style="max-width:100%;">
+ <img src="https://cf.cjdropshipping.com/f6d53bc1-9f05-417f-8803-f64ae769da0f.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/9025636d-0da0-4ee1-b7a7-13ff8b068f86.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/0caedf19-8caf-4c44-a710-f9910bc1511f.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/78dc3fde-9a9a-411a-bce4-29828884246a.jpg" style="font-size: 14px; max-width: 100%;">
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982265590051</id>
+      <title>Red White 5piece set</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>CJJJCFCF01265-Red White 5piece set</s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982265590051</id>
+      <title>Green White</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>CJJJCFCF01265-Green White</s:sku>
+      <s:grams>1050</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982265590051</id>
+      <title>Green White 5piece set</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>CJJJCFCF01265-Green White 5piece set</s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982265590051</id>
+      <title>Red White</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>CJJJCFCF01265-Red White</s:sku>
+      <s:grams>1050</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982264574243</id>
+    <published>2025-08-27T10:15:49-05:00</published>
+    <updated>2025-08-27T10:15:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/stainless-steel-meat-cleaver-chefs-knife-cleaver"/>
+    <title>Stainless Steel Meat Cleaver Chef&apos;s Knife Cleaver</title>
+    <s:type>cooking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/19320111375593.jpg?v=1756307728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>cooking<br>
+        <strong>Price: </strong>
+            6.46 - 116.96
+            <a href="https://satxbakery.com/products/stainless-steel-meat-cleaver-chefs-knife-cleaver">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <span style="font-weight: bold;">Overview:</span>
+ <br>
+ This is a 100% hand-made knife. It is made of high-carbon stainless steel Clad Steel blade. Its operation process is very complicated. The time for producing a knife is longer than that of ordinary knife. It needs constant in the production process. In the quenching - Hammer -tempering- clamping steel - Hammer -quenching- tempering and other continuous cycle operations.
+ <br>
+ The quenching splash is 780 degrees and the tempering is 180 degrees - 200 degrees.
+ <br>
+ This operation guarantees the hardness and sharpness of this knife .
+ <br>
+ If uses it correctly. You can use the knife 15--20 years.
+ <br>
+ <br>
+</p>
+<p>
+ <span style="font-weight: bold;">Specification:</span>
+ <br>
+ Tip angle: 60° and below
+ <br>
+ Blade length: 17cm kitchen
+ <br>
+ Tool type: slicing knife
+ <br>
+ Whether to open: Yes
+ <br>
+ Whether it is handmade: Yes
+ <br>
+ Item: Round head kitchen knife
+ <br>
+ Applicable people: Volkswagen
+ <br>
+ Applicable scene: daily
+ <br>
+ Gift style: Chinese
+ <br>
+ Material: Iron
+ <br>
+ <br>
+</p>
+<p>
+ <span style="font-weight: bold;">Package Content:</span>
+ <br>
+ 1x Knife
+</p>
+<p>
+ <br>
+</p>
+<img src="https://cf.cjdropshipping.com/17150400/2405070846250329800.jpg" align="absmiddle">
+<img src="https://cf.cjdropshipping.com/17150400/2405070846260320200.jpg" align="absmiddle">
+<p>
+ <br>
+</p>
+<p>
+ <br>
+</p>
+<img src="https://cf.cjdropshipping.com/17150400/2405070846260320800.jpg" align="absmiddle">
+<img src="https://cf.cjdropshipping.com/17150400/2405070846260321300.jpg" align="absmiddle">
+  
+<p>
+ <br>
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/17150400/2405070846260321800.jpg" style="max-width:100%;">
+ <br>
+</p>
+<style><!--br{mso-data-placement:same-cell;}td{color:#000000;font-size:11.0pt;font-family:宋体;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;mso-number-format:General;mso-protection:locked visible;}.et1{color:#000000;font-size:11.0pt;font-family:宋体;font-weight:400;font-style:normal;text-decoration:none;text-align:general;vertical-align:middle;mso-number-format:General;mso-protection:locked visible;}-->
+</style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>1pc</title>
+      <s:price currency="USD">103.23</s:price>
+      <s:sku>CJJJCFCF00351-1pc</s:sku>
+      <s:grams>631</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>1pc B</title>
+      <s:price currency="USD">66.89</s:price>
+      <s:sku>CJJJCFCF00351-1pc B</s:sku>
+      <s:grams>601</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>Brown Knife cover</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>CJJJCFCF00351-Brown Knife cover</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>Default</title>
+      <s:price currency="USD">102.67</s:price>
+      <s:sku>CJJJCFCF00351-Default</s:sku>
+      <s:grams>530</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>Knife stone Sheath</title>
+      <s:price currency="USD">116.96</s:price>
+      <s:sku>CJJJCFCF00351-Knife stone Sheath</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>Logo press print</title>
+      <s:price currency="USD">104.86</s:price>
+      <s:sku>CJJJCFCF00351-Logo press print</s:sku>
+      <s:grams>530</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>MK logo press print</title>
+      <s:price currency="USD">104.86</s:price>
+      <s:sku>CJJJCFCF00351-MK logo press print</s:sku>
+      <s:grams>530</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>MK logo print</title>
+      <s:price currency="USD">104.86</s:price>
+      <s:sku>CJJJCFCF00351-MK logo print</s:sku>
+      <s:grams>530</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>Sheath 1pc</title>
+      <s:price currency="USD">22.02</s:price>
+      <s:sku>CJJJCFCF00351-Sheath 1pc</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>Sheath stone 3 sets</title>
+      <s:price currency="USD">63.42</s:price>
+      <s:sku>CJJJCFCF00351-Sheath stone 3 sets</s:sku>
+      <s:grams>348</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>Sheath stone set</title>
+      <s:price currency="USD">23.83</s:price>
+      <s:sku>CJJJCFCF00351-Sheath stone set</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264574243</id>
+      <title>Stone</title>
+      <s:price currency="USD">6.46</s:price>
+      <s:sku>CJJJCFCF00351-Stone</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982264443171</id>
+    <published>2025-08-27T10:15:10-05:00</published>
+    <updated>2025-08-27T10:15:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/american-standard-stainless-steel-manual-laminating-machine"/>
+    <title>American Standard Stainless Steel Manual Laminating Machine</title>
+    <s:type>cooking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/1921833392404697088.jpg?v=1756307697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>cooking<br>
+        <strong>Price: </strong>
+            98.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <strong>Introductions:</strong>
+ <br>
+ Fond of eating flour-made dishes? How about dumplings? Wonton? Noodles? Buy this Dual-blade Multifunctional Manual Hand-cranking Operation Stainless Steel Noodle Making Machine; and you are able to make whatever flour-made dishes by your own! This noodle maker, adopting first-rate stainless steel material, is wear-resistant and uneasy to get rusty. Ergonomic treatment on handle makes it anti-skid and comfortable to grip. This machine has excellent pressing performance, could press dough into thin and cute wrappers. And by hand-cranking operation, you can get noodles within seconds with this noodle maker. In this way, you will enjoy healthy and yummy noodles! Buy it without hesitation!
+</p>
+<p>
+ <strong>Features:</strong>
+ <br>
+ 1. Portable and practical machine for household use
+ <br>
+ 2. Stainless steel material as well as exquisite workmanship ensures the good durability and stable performance
+ <br>
+ 3. It is designed with several holes on the side of this machine for free option
+ <br>
+ 4. Each hand-cranking hole is designed with respective specification for making different noodles
+ <br>
+ 5. Manual operation, hand-cranking mode, labor-saving and easy operation
+ <br>
+ 6. Anti-skid handle, comfortable to grip
+ <br>
+ 7. It could press dough into ultra-thin wrappers and turn wrappers into noodles
+ <br>
+ 8. You are allowed to adjust the thickness of noodles by altering the adjustment mode
+</p>
+<p>
+ <strong>Specifications:</strong>
+ <br>
+ 1. Material: Stainless Steel
+ <br>
+ 2. Color: Silver
+ <br>
+ 3. Capacity: 1 L
+ <br>
+ 4. Rotation Speed: 1000RPM
+ <br>
+ 5. Type: Hand-cranking
+ <br>
+ 6. Dimensions: (8.07 x 7.28 x 5.31)" / ()cm (L x W x H)
+ <br>
+ 7. Weight: 86.07oz / 2440g
+</p>
+<p>
+ <strong>Package Includes:</strong>
+ <br>
+ 1 x Noodle Making Machine
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/15771484-a472-45d2-b788-04c0532a6040.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856118452391936.jpg" data-key="1" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/a9edab03-19e8-4bad-adf2-96aab73b2320.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856119823929344.jpg" data-key="2" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/cf0d5f17-c2bf-416f-a899-73cbf9f32ca0.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856121417764864.jpg" data-key="3" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/f29266ed-291a-491f-8c6b-6ae48fce5b71.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856122915131392.jpg" data-key="4" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/cd67de3f-b766-4960-9961-f0e2c81bcae5.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856123493945344.jpg" data-key="5" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/5a125ee3-a4c5-4754-9715-3486b2e7d4e0.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856124446052352.jpg" data-key="6" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/1aa51baf-651e-4ec5-a332-b28113f8ab4d.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856125372993536.jpg" data-key="7" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/12a5790b-83e4-434f-929b-bd1a6b5021eb.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856127277207552.jpg" data-key="8" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/64af05a5-a3eb-4525-996b-97266750cc0d.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856128040570880.jpg" data-key="9" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/ab09419c-a92b-48b8-8dd6-2502a4f2db20.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856128841682944.jpg" data-key="10" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/c6189df8-0707-467f-9178-4a7981473624.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856129659572224.jpg" data-key="11" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/a39c6300-bfc7-45c5-a214-305d02bd192c.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856135242190848.jpg" data-key="12" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/b59ea1b5-6bce-4546-8c5a-49e11e4aeb00.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856137121239040.jpg" data-key="13" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/9b93235e-9811-4ed1-824f-4210a05f37e3.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856139423911936.jpg" data-key="14" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/951beeef-df69-487a-a455-f69be17b5b0f.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856141697224704.jpg" data-key="15" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/ea66731d-75f0-4c41-bfc0-7c057a3a423e.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856143622410240.jpg" data-key="16" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/c475d151-a7d7-4d4c-8191-d20c7b628163.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856145123971072.jpg" data-key="17" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/4bcb0f5c-c0c3-4a23-9eca-fce457090c0e.png" style="max-width:100%;" contenteditable="false" data-src="https://cf.cjdropshipping.com/17470080/1921856146206101504.jpg" data-key="18" data-uploadossfail="false">
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264443171</id>
+      <title>Silver</title>
+      <s:price currency="USD">98.75</s:price>
+      <s:sku>CJCJ224506301AZ</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982264344867</id>
+    <published>2025-08-27T10:14:11-05:00</published>
+    <updated>2025-08-27T10:14:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/7-in-1-multi-purpose-kitchen-scissors-with-magnetic-holder-ultra-sharp-stainless-steel-blades-for-meat-fish-vegetables-nuts-bottles-ergonomic-non-slip-grip-detachable-easy-to-clean-profe"/>
+    <title>7-in-1 Multi-Purpose Kitchen Scissors With Magnetic Holder - Ultra-Sharp Stainless Steel Blades For Meat, Fish, Vegetables, Nuts &amp; Bottles - Ergonomic Non-Slip Grip, Detachable &amp; Easy To Clean - Profe</title>
+    <s:type>cooking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/8b00d570-42f5-4416-8883-5719d056cfe9.jpg?v=1756307637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>cooking<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Package Size</p>
+<p>Length（cm）：28</p>
+<p>Width（cm）：10.5</p>
+<p>Height（cm）：2</p>
+<p>Weight（kg）：0.23</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/c0b4d12a-9995-4ca0-80dc-ccde719504fb.jpg" style="max-width:100%;" contenteditable="false">
+ <img src="https://cf.cjdropshipping.com/5e43606a-80bd-47ad-9c73-3e3bece54081.jpg" style="max-width:100%;" contenteditable="false">
+ <img src="https://cf.cjdropshipping.com/4c223335-4533-4ccd-8bf0-2274f9bf5c4d.jpg" style="max-width:100%;" contenteditable="false">
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264344867</id>
+      <title>Red and gray</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>CJCF241362201AZ</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264344867</id>
+      <title>Sky blue gray</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>CJCF241362202BY</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982264246563</id>
+    <published>2025-08-27T10:13:26-05:00</published>
+    <updated>2025-08-27T10:13:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/2pcs-ldq-elegant-wooden-serving-tray-japanese-style-space-saving-design-perfect-for-home-decor-and-kitchen-accessories-prohibited-for-sale-on-the-temu-platform"/>
+    <title>2pcs LDQ Elegant Wooden Serving Tray - Japanese Style, Space-saving Design, Perfect For Home Decor And Kitchen Accessories - Prohibited For Sale On The Temu Platform</title>
+    <s:type>baking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/5d3707d4-9912-4a50-bbac-02fcd8281149.jpg?v=1756307596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>baking<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <strong>Key Features:</strong>
+</p>
+<ol>
+ <li>
+  <p>
+   <strong>Authentic Japanese Design</strong>
+  </p>
+ </li>
+</ol>
+<ul>
+ <li>
+  <p>Clean, minimalist lines inspired by traditional Japanese craftsmanship</p>
+ </li>
+ <li>
+  <p>Natural wood tones complement any decor style (available in light oak/dark walnut finishes)</p>
+ </li>
+ <li>
+  <p>Wabi-sabi philosophy embraced through organic textures</p>
+ </li>
+</ul>
+<ol>
+ <li>
+  <p>
+   <strong>Premium Quality Construction</strong>
+  </p>
+ </li>
+</ol>
+<ul>
+ <li>
+  <p>Made from sustainably sourced hardwood (beech/bamboo)</p>
+ </li>
+ <li>
+  <p>Smooth, rounded edges for comfortable handling</p>
+ </li>
+ <li>
+  <p>Lightweight yet durable (holds up to 5kg/11lbs)</p>
+ </li>
+</ul>
+<ol>
+ <li>
+  <p>
+   <strong>Versatile Serving &amp; Storage</strong>
+  </p>
+ </li>
+</ol>
+<ul>
+ <li>
+  <p>Perfect for breakfast in bed, tea service, or entertaining guests</p>
+ </li>
+ <li>
+  <p>Ideal as a decorative organizer for remotes, jewelry, or bathroom essentials</p>
+ </li>
+ <li>
+  <p>Space-saving design stores flat or hangs vertically</p>
+ </li>
+</ul>
+<ol>
+ <li>
+  <p>
+   <strong>Thoughtful Details</strong>
+  </p>
+ </li>
+</ol>
+<ul>
+ <li>
+  <p>Subtle raised edges prevent spills</p>
+ </li>
+ <li>
+  <p>Non-slip surface keeps items secure</p>
+ </li>
+ <li>
+  <p>Easy to clean with damp cloth</p>
+ </li>
+ <li>
+  <p>
+   <img src="https://cf.cjdropshipping.com/ae527276-abfe-48bf-9c53-77d3327a05dc.png" style="max-width:100%;" contenteditable="false">
+   <img src="https://cf.cjdropshipping.com/69786298-a37f-46b6-b02d-b0ffa0573529.png" style="max-width:100%;" contenteditable="false">
+   <img src="https://cf.cjdropshipping.com/edf20fa4-23a4-462b-b9ed-ba1f0c7a7550.png" style="max-width:100%;" contenteditable="false">
+   <img src="https://cf.cjdropshipping.com/3ff6bcc2-ca52-4ae3-8629-87f0e893bb12.png" style="max-width:100%;" contenteditable="false">
+   <img src="https://cf.cjdropshipping.com/60d946ba-5606-49a8-81a9-eb68f5d0785a.png" style="max-width:100%;" contenteditable="false">
+   <img src="https://cf.cjdropshipping.com/7be9c899-9aa9-4640-bbb0-9b0d78778b71.png" style="max-width:100%;" contenteditable="false">
+   <img src="https://cf.cjdropshipping.com/42fcb816-ff01-469d-bbd8-ad3caa47b345.png" style="max-width:100%;" contenteditable="false">
+   <img src="https://cf.cjdropshipping.com/7425a8a4-2555-4976-a07c-54c2007610c7.png" style="max-width:100%;" contenteditable="false">
+   <img src="https://cf.cjdropshipping.com/cc12f2da-f63a-4846-9e91-baf55b0f6c8e.png" style="max-width:100%;" contenteditable="false">
+   2PC
+  </p>
+ </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264246563</id>
+      <title>2PCS</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>CJCJ244036601AZ</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982264213795</id>
+    <published>2025-08-27T10:12:53-05:00</published>
+    <updated>2025-08-27T10:12:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/hand-forged-kitchen-knife-meat-fish-fruit-vegetable-chef"/>
+    <title>Hand Forged Kitchen Knife Meat Fish Fruit Vegetable Chef</title>
+    <s:type>cooking</s:type>
+    <s:vendor>SATX Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/399381393043.jpg?v=1756307568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SATX Bakery<br>
+        <strong>Type: </strong>cooking<br>
+        <strong>Price: </strong>
+            65.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <b>Product introduction:</b>
+</p>
+<p>color classification: Short tip blade length approx. 18cm </p>
+<p>the tip angle: 60° or more </p>
+<p>Blade length: 18cm </p>
+<p>
+ <br>
+</p>
+<p>
+ <b>Packing list:</b>
+ kitchen knife*1
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/quick/product/28e9ed4b-4961-43bc-8da6-3d2a2d02a2d3.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/3ffaf5fa-3e79-4e7f-a687-d18092d1e5ba.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/a7aa3941-5f37-4a60-bf0b-3955562603bc.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/8e81b82b-3859-4a3a-90cb-34fd03ede821.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/96e0aca6-5bca-4d44-9d8a-8b726709d159.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/0f5102a4-37e8-4486-960e-f8e0f42a493c.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/5a7215f3-6595-4dad-84f4-ebeae0effbe2.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/7a25d814-d9b1-4797-a5a4-28f4a4b360c1.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/f3f4c666-d4f9-422d-9cbe-0af8da3515fb.jpg">
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264213795</id>
+      <title>Sikkina</title>
+      <s:price currency="USD">65.44</s:price>
+      <s:sku>CJJJCFCF01408-Sikkina</s:sku>
+      <s:grams>465</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982264115491</id>
+    <published>2025-08-27T10:12:24-05:00</published>
+    <updated>2025-08-27T10:12:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/hammer-chef-knife-hand-forged"/>
+    <title>Hammer Chef Knife Hand Forged</title>
+    <s:type>cooking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/3039307180608.jpg?v=1756307536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>cooking<br>
+        <strong>Price: </strong>
+            75.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <b>Overview:</b>
+ <br>
+ Multi-function chef's knife: either trim the sirloin, the leg of lamb, peel or decompose the whole chicken, or even separate the ribs from the pork loin. The curve allows precise separation of meat and bones. It is very sharp and suitable for outdoor camping cooking and barbecue.
+ <br>
+ Rugged and durable: The hardness of the 59-60 HRC curved blade means that the blade is hard to cut, has excellent rust and corrosion resistance, and you can easily sharpen it with different sharpening tools after long-term use.
+ <br>
+ Ergonomic handle: The wooden handle of Tang's kitchen knife provides a relaxing operating experience. It feels comfortable and not tired after long-term use. Easy to maintain, anti-fouling and anti-rust
+ <br>
+ Ideal gift: very suitable for multi-purpose tableware gifts (Christmas, weddings, birthdays, Father's Day, Mother's Day), home chefs, professional chefs, cooking students, etc.
+ <br>
+ <br>
+ <b>Features:</b>
+ <br>
+ 1. Special design focusing on comfortable wearing. The shape of a bird flying freely
+ <br>
+ 2. Balance and excellent grip.
+ <br>
+ 3. Selected stainless steel blades are rust-proof and easy to re-sharpened
+ <br>
+ 4. The handle is made of pear wood, finely polished, without thorns.
+ <br>
+ <br>
+ <b>Product information:</b>
+ <br>
+ Material: 4034ZW stainless steel
+ <br>
+ Color classification: yellow pear handle, ebony handle
+ <br>
+ Item No.: GJ-150
+ <br>
+ Whether to open: yes
+ <br>
+ Tip angle: above 60°
+ <br>
+ Blade length: 17Cm
+ <br>
+ <b>
+  <br>
+  Packing list:
+ </b>
+ <br>
+ Knife*1
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/15619968/1318161357817.png">
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/quick/product/e2d6f5c5-574d-4509-a1d2-77751e30addc.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/c7873d84-c7e2-42af-8a1d-2713b7af4a4a.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/3e968c4a-0642-42ae-9578-6adffdcaf76e.jpg">
+ <img src="https://cf.cjdropshipping.com/quick/product/a762894a-add4-4f01-9284-a68c376bcfc9.jpg">
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982264115491</id>
+      <title>Sikkina</title>
+      <s:price currency="USD">75.37</s:price>
+      <s:sku>CJJJCFCF01414-Sikkina</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982263263523</id>
+    <published>2025-08-27T10:11:24-05:00</published>
+    <updated>2025-08-27T10:11:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/16in1-vegetable-chopper-fruit-and-vegetable-slicer-onion-cutter-food-chopper-with-container-vegetable-cutter-and-spiralizer-suitable-for-onion-salads-essential-small-tools-for-households"/>
+    <title>16in1 Vegetable Chopper, Fruit And Vegetable Slicer, Onion Cutter, Food Chopper With Container, Vegetable Cutter And Spiralizer Suitable For Onion Salads ,Essential Small Tools For Households</title>
+    <s:type>baking</s:type>
+    <s:vendor>SATX Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/b68b6bc3-16bc-4ded-a9c2-a5445c21c405.jpg?v=1756307472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SATX Bakery<br>
+        <strong>Type: </strong>baking<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Multi-functional Design: The 16-in-1 manual vegetable cutter comes with multiple blades for slicing, dicing and chopping various vegetables and fruits.</p>
+<p>
+ <br>
+</p>
+<p>Efficient Cutting: The sharp stainless steel blades ensure quick and even cutting of onions, carrots and other vegetables with ease.</p>
+<p>
+ <br>
+</p>
+<p>Easy to Clean: It includes a handy spatula for collecting food, and all parts are dishwasher-safe, requiring no troublesome maintenance.</p>
+<p>
+ <br>
+</p>
+<p>Compact Storage: With a space-saving design and integrated blade storage, it fits well on any kitchen counter or in any kitchen cabinet.</p>
+<p>Safe Operation: The non-slip base and hand guard protection device ensure stable and safe cutting while keeping fingers away from the blades.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982263263523</id>
+      <title>Black and green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>CJCJ246977801AZ</s:sku>
+      <s:grams>707</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982262804771</id>
+    <published>2025-08-27T10:06:44-05:00</published>
+    <updated>2025-08-27T10:06:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/1-set-11in-rotating-cake-turntable-108pcs-cake-decorating-supplies-kit-revolving-cake-table-stand-base-baking-tools"/>
+    <title>1 Set 11in Rotating Cake Turntable 108Pcs Cake Decorating Supplies Kit Revolving Cake Table Stand Base Baking Tools</title>
+    <s:type>bowl</s:type>
+    <s:vendor>SATX Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/1939865741071486976.jpg?v=1756307192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SATX Bakery<br>
+        <strong>Type: </strong>bowl<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <b>DHL Shipping for single product purchasing. Multiple pack would be fedex shipping</b>
+</p>
+<p>
+ <b>*Features*:</b>
+ <br>
+ <br>
+ *Package Contents*:Each package contains 1 cake turntable,48 small icing tips,6 Russian tips,2 pack 12in pastry reusable bag,1 cake brush,1cake cutter,1cake pen,3 cake scrapers,2 small cake nozzle couplers,2 large cake nozzle couplers,25 disposable bags,2 icing spatulas,2 flower nails,1 cake flower lifter,and 12 cupcakes. Almost everything you need for baking is here.
+ <br>
+ *Smooth Revolving*:It turns smoothly with a rollerball system and rotates either clockwise or counterwise. This platform is perfect for both right-handed and left-handed decorators. Made of food-grade PP material,this 11" turntable is lightweight and has a non-slip base for extra stability. An affordable and practical turntable for both beginners and pro.
+ <br>
+ *48 Icing Tips*:48 icing tips enable you to choose the right one that best suits your decorating project easily. Made of stainless steel,giving your decorations a sharper and more defined shape.
+ <br>
+ *Useful Accessories*:Use 3 scrapers to smooth icing on sides &amp; top and carve designs. Use couplers to exchange tips without exchanging piping bags. Use cleaning brush to clean narrow top of tips. The cake pen helps you write,decorate same as you do with a normal pen. Use flower nail to produce roses. Use flower lifter scissor to shift flower from nail to Cake.
+ <br>
+ *Ideal Gift*:An ideal gift for baking lovers. For both beginners and pro,there is no better alternative than our turntable attached with complete accessories.
+ <br>
+ <br>
+ <b>*Specifications*:</b>
+ <br>
+ Product Type: Cake Turn Table
+ <br>
+ Color: White
+ <br>
+ Material: 420Stainless Steel+PP+Silicone+TPU+PE
+ <br>
+ Cake Turntable Size: 27.5x27.5x7cm/11x11x2.8in
+ <br>
+ Cake Turntable Weight: 286g/0.6lbs
+ <br>
+ Per Small Icing Tip Size: 3x1.8x1.8cm/1.2x0.7x0.7in
+ <br>
+ Per Small Icing Tip Weight: 2g/0.004lbs
+ <br>
+ Per Russian Tip Size: 2x2x3.7cm/0.8x0.8x1.5in
+ <br>
+ Per Russian Tip Weight: 2.5g/0.005lbs
+ <br>
+ Per 12in Pastry Reusable Bag Size: 30.7x16.9x0.2cm/12.1x6.7x0.1in
+ <br>
+ Per 12in Pastry Reusable Bag Weight: 9g/0.02lbs
+ <br>
+ Cake Brush Size: 11.5x2x2cm/4.5x0.8x0.8in
+ <br>
+ Cake Brush Weight: 1.5g/0.003lbs
+ <br>
+ Cake Cutter Size: 26x22x0.4cm/10.2x8.7x0.2in
+ <br>
+ Cake Cutter Weight: 51g/0.1lbs
+ <br>
+ Cake Pen Size: 14x2.2x2.2cm/5.5x0.9x0.9in
+ <br>
+ Cake Pen Weight: 28.5g/0.06lbs
+ <br>
+ Cake Scrape Size: 11.2x7.5x0.2cm/4.4x3x0.1in; 11.5x8x0.2cm/4.5x3.1x0.1in; 9.9x7x0.2cm/3.9x2.8x0.1in
+ <br>
+ Cake Scraper Weight: 10.5g/0.02lbs; 12g/0.03lbs; 9g/0.02lbs
+ <br>
+ Per Small Cake Nozzle Coupler Size: 2.4x2.4x3.2cm/0.9x0.9x1.3in
+ <br>
+ Per Small Cake Nozzle Coupler Weight: 2.5g/0.006lbs
+ <br>
+ Per Large Cake Nozzle Coupler Size: 5.2x3.6x3.6cm/2x1.4x1.4in
+ <br>
+ Per Large Cake Nozzle Coupler Weight: 12g/0.03lbs
+ <br>
+ Per Disposable Bag Size: 29.7x20cm/11.7x7.9in
+ <br>
+ Per Disposable Bag Weight: 1.7g/0.004lbs
+ <br>
+ Icing Spatula Size: 27x3x0.7cm/10.6x1.2x0.3in
+ <br>
+ Icing Spatula Weight: 61g/0.1lbs
+ <br>
+ Per Flower Nail Size: 3.2x3.2x7.2cm/1.3x1.3x2.8in
+ <br>
+ Per Flower Nail Weight: 5.5g/0.01lbs
+ <br>
+ Cake Flower Lifter Size: 13x5.3x2cm/5.1x2.1x0.8in
+ <br>
+ Cake Flower Lifter Weight: 7.5g/0.02lbs
+ <br>
+ Per Cupcake Size: 7x7x3.3cm/2.8x2.8x1.3in
+ <br>
+ Per Cupcake Weight: 5g/0.01lbs
+ <br>
+ Package Size: 28x28x7cm/11.02x11.02x2.75in
+ <br>
+ Package Weight: 934g/2.05lbs
+ <br>
+ <br>
+ <b>*Package Lists*:</b>
+ <br>
+ 1xCake Turntable
+ <br>
+ 48xSmall Icing Tip
+ <br>
+ 6x Russian Tips
+ <br>
+ 2x12in Pastry Reusable Bags
+ <br>
+ 1xCake Brush
+ <br>
+ 1xCake Cutter
+ <br>
+ 1xCake Pen
+ <br>
+ 3xCake Scrapers
+ <br>
+ 2x Small Cake Nozzle Coupler
+ <br>
+ 1x Large Cake Nozzle Coupler
+ <br>
+ 25xDisposable Bag
+ <br>
+ 1xIcing Spatula (10.6in)
+ <br>
+ 1xAngled Icing Spatula (10.6in )
+ <br>
+ 2xFlower Nail
+ <br>
+ 1xCake Flower Lifter
+ <br>
+ 12xCupcake
+ <br>
+ 1x User Manual
+</p>
+<p style="margin: 10px 0;">
+ <b>Actual Product Photo</b>
+</p>
+<img src="https://oss-cf.cjdropshipping.com/product/2025/07/01/01/114a6830-b255-4f17-a145-45ede5852c41.JPG" style="max-width:100%;display:inline-block;">
+<img src="https://oss-cf.cjdropshipping.com/product/2025/07/01/01/e342375f-dcc1-4ee7-b494-3a2144326585.JPG" style="max-width:100%;display:inline-block;">
+<img src="https://oss-cf.cjdropshipping.com/product/2025/07/01/01/a25e73d6-ab8e-4bb4-b08f-657fa7d9bf9b.JPG" style="max-width:100%;display:inline-block;">
+<img src="https://oss-cf.cjdropshipping.com/product/2025/07/01/01/de377590-a1e1-4a69-bc86-0c02e83b8914.JPG" style="max-width:100%;display:inline-block;"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982262804771</id>
+      <title>Blue</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>CJDG241641101AZ</s:sku>
+      <s:grams>930</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982262706467</id>
+    <published>2025-08-27T10:06:01-05:00</published>
+    <updated>2025-08-27T10:06:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/398pcs-cake-decorating-supplies-kit-baking-tools-set-for-cakes-3-packs-springform-cake-pans-cake-rotating-turntable-48-numbered-piping-icing-tips-4-russian-nozzles-9-fondant-tools-for-beginners"/>
+    <title>398PCS Cake Decorating Supplies Kit, Baking Tools Set For Cakes -3 Packs Springform Cake Pans Cake Rotating Turntable 48 Numbered Piping Icing Tips 4 Russian Nozzles 9 Fondant Tools For Beginners</title>
+    <s:type>baking</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/76d4437b-88ed-425a-b9c0-a7662961f553.jpg?v=1756307155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>baking<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+ <li>COMPLETE CAKE DECORATING SUPPLIES KIT: This 390pcs cake baking kit has everything you need for cake decorating or baking.Included: 58 cake decorating tips, 3 non stick springform pan,cake turntable stand,cake carrier with lid,cupcake holder,sculpting modeling fondant tools,cookie stamps set,cake decorating spatula,cake server set,chocolate mold,icing scraper,cake decorating pen and other cake baking tools.</li>
+ <li>PREMIUM&amp;DURABLE:Food-grade standard materials.These cake baking tools in YIN AISIKE cake baking set are made of premium stainless steel,food-grade silicone and plastic respectively,durable and easy to clean</li>
+ <li>Baking Supplies Cake Decorating Tools - 54 numbered icing tips and 4 Russian tips, and the pattern can check on the user guide chart. The revolving cake turntable is ideal for easy decorating. Use flower nail to produce roses. 9 carved pens help you create a delicate fondant cake.</li>
+ <li>Cake Pans Sets for Baking - Various cake tools to help you make all kinds of cakes. Chocolate mold to create more delicate cake. Suitable for any ages and levels of cake-making. Muffin cup molds to make cupcakes. Hand-made cake can express your love and sincerity to the maximum as a gift.</li>
+ <li>Customer Service - Every part of a kit is well packed and good quality, you can easily purchase this as a birthday, Wedding, Mother Day, Christmas, Easter gift to your friends or kids. If you need any help with our orders, please feel free to contact our customer service.</li>
+ <li>
+  <img src="https://cf.cjdropshipping.com/e3a6682a-c0fa-4312-834d-5dcbb9dd9af2.png" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/f6c19d66-521f-4b04-b336-060905f111f3.png" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/a404462b-df05-4cfd-a518-ce66253371e1.png" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/38c7b582-71a9-457d-be53-eb0d642a10b3.png" style="max-width:100%;" contenteditable="false">
+  <img src="https://cf.cjdropshipping.com/8ad11e3e-d25a-4223-be66-b8ffd93a85be.png" style="max-width:100%;" contenteditable="false">
+ </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982262706467</id>
+      <title>Cake decorating supplies set</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>CJDG244366901AZ</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982262051107</id>
+    <published>2025-08-27T10:05:14-05:00</published>
+    <updated>2025-08-27T10:05:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/20-solid-color-towels-super-absorbent-quick-drying-suitable-for-home-office-and-travel"/>
+    <title>20 Solid Color Towels, Super Absorbent &amp; Quick-drying, Suitable For Home, Office And Travel</title>
+    <s:type>towel</s:type>
+    <s:vendor>SATX Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/3fe54d31-07ff-4cc7-9a38-118fe822a5eb.jpg?v=1756307107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SATX Bakery<br>
+        <strong>Type: </strong>towel<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Package Size</p>
+<p>Length（cm）：26</p>
+<p>Width（cm）：17</p>
+<p>Height（cm）：3.5</p>
+<p>Weight（kg）：0.37</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/aef117ec-0b76-4b4b-a9ff-906336703fd1.jpg" style="max-width:100%;" contenteditable="false">
+ <img src="https://cf.cjdropshipping.com/29095905-982c-4d5e-8696-74597bd5d036.jpg" style="max-width:100%;" contenteditable="false">
+ <img src="https://cf.cjdropshipping.com/06817f4b-1cea-49d9-8167-900f5218c727.jpg" style="max-width:100%;" contenteditable="false">
+ <img src="https://cf.cjdropshipping.com/360081e5-b13f-43d6-87fe-8a3a4b300833.jpg" style="max-width:100%;" contenteditable="false">
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982262051107</id>
+      <title>20PCS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>CJMJ236004901AZ</s:sku>
+      <s:grams>370</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982259364131</id>
+    <published>2025-08-27T09:57:09-05:00</published>
+    <updated>2025-08-27T09:57:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/teak-natural-wood-tableware-spoon-ladle-turner-rice-colander-soup-skimmer-cooking-tool-sets-spoon-scoop-kitchen-tools-gadgets"/>
+    <title>Teak Natural Wood Tableware Spoon Ladle Turner Rice Colander Soup Skimmer Cooking Tool Sets Spoon Scoop Kitchen Tools Gadgets</title>
+    <s:type>spoon</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/182397777806014.jpg?v=1756306615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>spoon<br>
+        <strong>Price: </strong>
+            12.99 - 44.99
+            <a href="https://satxbakery.com/products/teak-natural-wood-tableware-spoon-ladle-turner-rice-colander-soup-skimmer-cooking-tool-sets-spoon-scoop-kitchen-tools-gadgets">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ Material wooden
+ <br>
+ Specifications Spatula, frying spatula, large spoon, rice spoon, colander, mixing spoon, soup spoon
+ <img src="https://cf.cjdropshipping.com/db540416-0e3e-4d8d-8a70-fab94973dc5c.jpg" style="font-size: 14px; max-width: 100%;" class="clicked">
+ <img src="https://cf.cjdropshipping.com/4d8fd7f3-63ef-403c-a9ef-708446569b27.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/07b152ae-24d0-499b-a6f1-0eab0164835c.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/f4fd4894-4cb0-47c8-ae50-3a7124fd104e.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/e304beee-e8e7-4e24-8e93-4be01d3498b0.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/19d539d5-9bd8-4666-8764-4aa63b308e34.jpg" style="font-size: 14px; max-width: 100%;">
+</p>
+<p>
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>2 pcs set</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>CJJJCFCJ01699-2 pcs set</s:sku>
+      <s:grams>171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>4pcs set</title>
+      <s:price currency="USD">25.75</s:price>
+      <s:sku>CJJJCFCJ01699-4pcs set</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>7pcs set</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>CJJJCFCJ01699-7pcs set</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>8pcs set</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>CJJJCFCJ01699-8pcs set</s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>Colander</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>CJJJCFCJ01699-Colander</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>Frying spatula</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>CJJJCFCJ01699-Frying spatula</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>Rice spoon</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>CJJJCFCJ01699-Rice spoon</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>Salad fork</title>
+      <s:price currency="USD">23.50</s:price>
+      <s:sku>CJJJCFCJ01699-Salad fork</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>Soup spoon</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>CJJJCFCJ01699-Soup spoon</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>Spatula</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>CJJJCFCJ01699-Spatula</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>Stirring spoon</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>CJJJCFCJ01699-Stirring spoon</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982259364131</id>
+      <title>Tablespoon</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>CJJJCFCJ01699-Tablespoon</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://satxbakery.com/products/9982258118947</id>
+    <published>2025-08-27T09:50:55-05:00</published>
+    <updated>2025-08-27T09:50:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://satxbakery.com/products/kitchen-natural-wooden-bowl-household-fruit-bowl-salad-bowl-for-home-restaurant-food-container-wooden-utensils-note-the-size-hot"/>
+    <title>Kitchen Natural Wooden Bowl Household Fruit Bowl Salad Bowl For Home Restaurant Food Container Wooden Utensils Note The Size Hot</title>
+    <s:type>bowl</s:type>
+    <s:vendor>SATX Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0953/0726/8387/files/3498293563074.jpg?v=1756306244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SATX Bakery<br>
+        <strong>Type: </strong>bowl<br>
+        <strong>Price: </strong>
+            12.25 - 134.42
+            <a href="https://satxbakery.com/products/kitchen-natural-wooden-bowl-household-fruit-bowl-salad-bowl-for-home-restaurant-food-container-wooden-utensils-note-the-size-hot">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <b>Overview:</b>
+</p>
+<p>
+ Exquisite handmade wooden bowl with beautiful wood grain, which is lightweight, heat-resistant and unbreakable for long time using.
+ <br>
+ Featuring its Japanese style design, this product is decorative and exquisite, which is comfortable to hold and non-slip.
+ <br>
+ Made of wood, this food bowl is safe and durable.
+ <br>
+ It is suitable for home, kitchen, restaurant, etc.
+ <br>
+</p>
+<p>
+ <br>
+</p>
+<p>
+ <b>Specifications:</b>
+</p>
+<p>
+ Product Category: Bowl
+ <br>
+ Material: wood
+ <br>
+ Surface technology: overglaze
+ <br>
+ Applicable object: Adult
+ <br>
+ Applicable scene: drinking tea
+ <br>
+ pattern: plain
+ <br>
+ Microwave: Not available
+</p>
+<p>"All size" includes: "12X6cm" + "16X7cm" + "10X6cm" + "8X6cm" + "14X7cm"</p>
+<p>
+ <br>
+</p>
+<p>
+ <b>Package Content:</b>
+ <br>
+ 1*Bowl
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/17168544/2405281250510321800.jpg" style="font-size: 14px; max-width: 100%;" data-key="1">
+ <img src="https://cf.cjdropshipping.com/17168544/2405281250510322700.jpg" style="font-size: 14px; max-width: 100%;" data-key="2">
+ <img src="https://cf.cjdropshipping.com/17168544/2405281250510324200.jpg" style="font-size: 14px; max-width: 100%;" data-key="3">
+ <img src="https://cf.cjdropshipping.com/17168544/2405281250510324800.jpg" style="font-size: 14px; max-width: 100%;" data-key="4">
+ <img src="https://oss-cf.cjdropshipping.com/product/2024/12/31/07/003a1c41-6a77-4702-84a1-dfffcae54c2a.jpg" data-src="https://ae01.alicdn.com/kf/S15495d33f8c54980a7975fe267842823h.jpg?width=800&amp;height=800&amp;hash=1600" style="font-size: 14px;" data-key="5" data-uploadossfail="false">
+ <img src="https://oss-cf.cjdropshipping.com/product/2024/12/31/07/c5e8f31a-02d7-48de-802f-bf391040a8d6.jpg" data-src="https://ae01.alicdn.com/kf/Sb88ad4ab00a644db947e635f6a20d4f9F.jpg?width=800&amp;height=800&amp;hash=1600" style="font-size: 14px;" data-key="6" data-uploadossfail="false">
+ <img src="https://oss-cf.cjdropshipping.com/product/2024/12/31/07/207b9dc2-23bd-4ab2-bc23-f22517843705.jpg" data-src="https://ae01.alicdn.com/kf/Seb6f7d3aba2a42bb8130b2b1f45ad330G.jpg?width=800&amp;height=800&amp;hash=1600" style="font-size: 14px;" data-key="7" data-uploadossfail="false">
+ <img src="https://cf.cjdropshipping.com/17168544/2405281250510323400.jpg" data-key="8" style="font-size: 14px;">
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / 10X6cm</title>
+      <s:price currency="USD">20.20</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-10X6cm</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / 12X6cm</title>
+      <s:price currency="USD">27.92</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-12X6cm</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / 14X7cm</title>
+      <s:price currency="USD">29.81</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-14X7cm</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / 16X7cm</title>
+      <s:price currency="USD">35.05</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-16X7cm</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / 18X7.5cm</title>
+      <s:price currency="USD">49.77</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-18X7.5cm</s:sku>
+      <s:grams>479</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / 20X7.5cm</title>
+      <s:price currency="USD">52.42</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-20X7.5cm</s:sku>
+      <s:grams>521</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / 26X8cm</title>
+      <s:price currency="USD">134.42</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-26X8cm</s:sku>
+      <s:grams>1315</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / 8X6cm</title>
+      <s:price currency="USD">12.25</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-8X6cm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://satxbakery.com/products/9982258118947</id>
+      <title>Brown / All size</title>
+      <s:price currency="USD">110.01</s:price>
+      <s:sku>CJJJCFCJ01965-Brown-All size</s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+  </entry>
+</feed>
